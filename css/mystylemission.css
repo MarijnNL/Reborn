@@ -47,9 +47,10 @@ body {
 	color: black;
 }
 .reborneu{
-	background-color: aquamarine;
+	background-color: #60C4B8;
 	align-content: center;
 	text-align: center;
+	color: black;
 }
 .center-block {
     display: block;
