@@ -100,6 +100,13 @@ h3 {
 }
 .info {
 }
+.mainfooter{
+	font-style: oblique;
+	color: white;
+	align-content: center;
+	align-items: center;
+	text-align: center;
+}
 .reborneu{
 	background-color: #60C4B8;
 	align-content: center;
