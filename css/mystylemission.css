@@ -108,16 +108,16 @@ h3 {
 .info {
 }
 .mainfooter{
-	font-style: oblique;
+	font-style: lato;
 	color: white;
 	align-content: center;
 	align-items: center;
 	text-align: center;
 }
-.reborneu{
+.footerreborneu{
 	background-color: #60C4B8;
 	align-content: center;
 	text-align: center;
-	align-items: center;
-	color: white;
+	color: #112D32;
+	font-family: Lato Black;
 }
