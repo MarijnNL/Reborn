@@ -187,8 +187,14 @@ h2 {
     font-family: 'Lato', sans-serif;
     color: white;
     text-align: center;
-    height: 194px;
+    height: 90px;
     margin-top: -10px;
+    background-color: #4f4a41;
+}
+.responses{
+	font-family: 'Lato', sans-serif;
+    color: white;
+    background-color: #4f4a41;
 }
 
 .bg-cs1 {
