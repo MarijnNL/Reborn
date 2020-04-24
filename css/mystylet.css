@@ -4,7 +4,7 @@
     background-color: #112D32; 
 } 
 .navbar-nav a {
-    font-family: lato black;
+    font-family: 'Lato Black', sans-serif;
     font-size: large;
     color: #FFFFFF;
 }
@@ -22,16 +22,16 @@ body {
     height: 200px;
     overflow: hidden;
     background-image: url("../images/banner1.jpg");	
-	font-family: Lato;
+	font-family: 'Lato', sans-serif;
 	color: white;
 }
 
 .helptitle {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;;
 	color: white;
 }
 .lato {
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     color: white;
     text-align: center;
 }
@@ -42,7 +42,7 @@ body {
     margin-right: auto;
  }
 h2 {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 	text-align: center;
 }
@@ -64,12 +64,12 @@ h2 {
 }
 
 h3 {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 }
 
 .lato2 {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 }
 .bodyabout1 {
@@ -78,7 +78,7 @@ h3 {
 
 .aboutreborn {
 	background-color: #112D32;
-	font-family: lato black;
+	font-family: 'Lato Black', sans-serif;
 	text-align: center;
 	color: white;
 }
@@ -94,7 +94,7 @@ h3 {
 	height: 475px;
 }
 .mainfooter{
-	font-style: lato;
+	font-style: 'Lato', sans-serif;
 	color: white;
 	align-content: center;
 	align-items: center;
@@ -105,20 +105,20 @@ h3 {
 	align-content: center;
 	text-align: center;
 	color: #112D32;
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 }
 .lato {
-	font-family: lato;
+	font-family: 'Lato', sans-serif;
 	color: white;
 }
 .contactinfo {
-	font-family: Lato;
+	font-family: 'Lato', sans-serif;
 	color: white;
 	text-align: center;
 }
 
 .contacttitle {
-		font-family: Lato Black;
+		font-family: 'Lato Black', sans-serif;
 	color: white;
 	text-align: center;
 	
@@ -129,18 +129,18 @@ h3 {
 }
 .btn-home {
     width: 170px;
-    font-family: lato black;
+    font-family: 'Lato Black', sans-serif;
     background-color: #112D32;
     border-color: #000000;
 }
 
 .logotext {
-    font-family: lato black;
+    font-family: 'Lato Black', sans-serif;
     color: #FFFFFF;
     font-size: 47px;
 }
 .homep {
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     color: white;
     text-align: center;
     font-size: 20px;
@@ -149,7 +149,7 @@ h3 {
   flex: 1;
 }
 .latotextimage {
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     color: white;
     text-align: center;
     font-size: 20px;
@@ -166,25 +166,25 @@ h3 {
     margin-right: auto;
 }
 .card-body {
-	font-family: Lato;
+	font-family: 'Lato', sans-serif;
     color: white;
     text-align: center;
 	background-color: #4f4a41;
 }
 .list-group-item {
-	font-family: Lato;
+	font-family: 'Lato', sans-serif;
     color: white;
     text-align: center;
 	background-color: #4f4a41;
 }
 h2 {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 	text-align: center;
 }
  
 .info {
-    font-family: Lato;
+    font-family: 'Lato', sans-serif;
     color: white;
     text-align: center.
     height: 194px;
@@ -209,17 +209,17 @@ h2 {
 }
 
 h3 {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 }
 
 .lato2 {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 }
 
 .mainfooter{
-	font-style: oblique;
+	font-style: 'Lato', sans-serif;
 	color: white;
 	align-content: center;
 	align-items: center;
@@ -234,7 +234,7 @@ h3 {
 }
 
 .lato2blue {
-	font-family: Lato Black;
+	font-family: 'Lato Black', sans-serif;
 	color: white;	
 	background-color: #112D32; 
 
