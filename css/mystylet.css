@@ -35,6 +35,12 @@ body {
     color: white;
     text-align: center;
 }
+.userpdf{
+	width: 170px;
+    font-family: 'Lato Black', sans-serif;
+    background-color: black;
+    border-color: #000000;
+}
 
 .center-block {
     display: block;
